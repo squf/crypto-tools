@@ -6,5 +6,5 @@
 * connects to pump.fun API
 * uses a discord API to post messages to a specified channel
 * tracks new tokens posted to pump.fun in a local .json file
-* when tokens meet the "gem" criteria, posts them in the discord channel
+* when tokens meet the "gem" criteria, posts them in the discord channel (these are just basic obvious parameters in this script, adjust to your liking, or expand upon them)
 * requires setting your discord API and channel ID in .env file in same dir as .py file
