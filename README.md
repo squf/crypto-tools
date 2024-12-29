@@ -1,2 +1,2 @@
-# crypto-tools
-crypto tools
+# cryptocurrency tools
+* web3 / solana / crypto / meme coins / etc.
