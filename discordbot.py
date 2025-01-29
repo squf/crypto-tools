@@ -2,7 +2,7 @@
 
 ex: !check xrp = will post the current price of xrp in channel, along with some animated .gifs in a card format
 
-will require some set-up on your end, including an .env file with a coinbase API key and your discord API key
+will require some set-up on your end, including an .env file with a coinbase API key and your discord API key, and any animated gifs you want to include setup in your local repo
 """
 
 import os
